@@ -1,4 +1,4 @@
-# CSS Coding Standards and Best Practices
+erterterte# CSS Coding Standards and Best Practices
 
 ## Introduction:
 
@@ -18,12 +18,12 @@ This attitude may not be appropriate for open-source projects, but it is definit
 
 This is a community-driven document, so please feel free to contribute!
 
-Author:  
-Steve Kwan  
-<mail@stevekwan.com>  
+Author:
+Steve Kwan
+<mail@stevekwan.com>
 <http://www.stevekwan.com/>
 
-Originally from my GitHub:  
+Originally from my GitHub:
 <https://github.com/stevekwan/best-practices/>
 
 <!--
@@ -124,12 +124,12 @@ This section is a work in progress.  I'll eventually add details, explanations a
     {
         font-size: 13px;
     }
-    
+
     .main-content
     {
         font-size: 120%;
     }
-    
+
     .main-content header
     {
         font-size: 75%;
